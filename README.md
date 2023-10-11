@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grigange&label=Profile%20views&color=0e75b6&style=flat" alt="grigange" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grigange" alt="grigange" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grigange&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-w=10" alt="grigange" /></a> </p>
 
 - 📫 How to reach me **aggelosgrig@gmail.com**
 
