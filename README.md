@@ -12,4 +12,6 @@
 ### 🏆 Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=grigange&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=15&margin-h=15&title=Commits,Joined2020,Experience,Repositories)
 ### 📬 Contact
+###  [`📧 grigange@csd.auth.gr`](mailto:grigange@csd.auth.gr)
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=198740661074264064)
+
