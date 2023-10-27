@@ -1,6 +1,7 @@
 ### 👋🏽 Hi there, I'm Angelos
 
- 👨🏽‍💻 Currently pursuing a Bachelor's degree in Computer Science at Aristotle University of Thessaloniki  
+ 🧑🏽‍🎓 Bachelor of Computer Science in Aristotle University of Thessaloniki
+ 👨🏽‍💻 Ongoing Thesis in Financial Analysis
  ❗ 404: *Hobbies not found, too busy coding!*
 
 ### 💻 Tech Stack
